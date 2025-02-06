@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">446045086456</string>
+    <string name="google_api_key" translatable="false">AIzaSyCu0DG_Bar5ab5jOdGBkbM4wu1-_NwBD80</string>
+    <string name="google_app_id" translatable="false">1:446045086456:android:ae8a1b26ed06df4b84110d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCu0DG_Bar5ab5jOdGBkbM4wu1-_NwBD80</string>
+    <string name="google_storage_bucket" translatable="false">challengeme-dimali.firebasestorage.app</string>
+    <string name="project_id" translatable="false">challengeme-dimali</string>
+</resources>

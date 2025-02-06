@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "446045086456",
+    "project_id": "challengeme-dimali",
+    "storage_bucket": "challengeme-dimali.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446045086456:android:ae8a1b26ed06df4b84110d",
+        "android_client_info": {
+          "package_name": "com.example.challengeme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu0DG_Bar5ab5jOdGBkbM4wu1-_NwBD80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
